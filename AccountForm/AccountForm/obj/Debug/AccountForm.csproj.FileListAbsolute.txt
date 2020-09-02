@@ -1,0 +1,10 @@
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\bin\Debug\AccountForm.exe.config
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\bin\Debug\AccountForm.exe
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\bin\Debug\AccountForm.pdb
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.csprojAssemblyReference.cache
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.MainPage.resources
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.Properties.Resources.resources
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.csproj.GenerateResource.cache
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.csproj.CoreCompileInputs.cache
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.exe
+C:\Users\X-PC\Desktop\GitProjects\Windows-Forms-RegisterLoginForm\AccountForm\AccountForm\obj\Debug\AccountForm.pdb
